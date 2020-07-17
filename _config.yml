@@ -48,7 +48,7 @@ paginate_path: /page:num/
 lsi: false
 safe: true
 incremental: false
-highlighter: rogue
+# highlighter: rogue
 pygments: false
 gist:
   noscript: false
@@ -57,7 +57,7 @@ kramdown:
     math_engine: mathjax
     syntax_highlighter: rogue
     syntax_highlighter_opts:
-      disable : true
+      disable : false
 
 
 
