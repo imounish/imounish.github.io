@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Memoirs</title>
-    <description>I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!</description>
-    <link>http://localhost:4000/jekyll-theme-memoirs/</link>
-    <atom:link href="http://localhost:4000/jekyll-theme-memoirs/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 17 Jul 2020 18:00:36 +0530</pubDate>
-    <lastBuildDate>Fri, 17 Jul 2020 18:00:36 +0530</lastBuildDate>
+    <description>I will take you along a journey of my life.  Eat, Pray, Love!</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 17 Jul 2020 18:18:31 +0530</pubDate>
+    <lastBuildDate>Fri, 17 Jul 2020 18:18:31 +0530</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
@@ -26,8 +26,8 @@
 &lt;p&gt;In 2017 Hache opened a smaller restaurant, L’Écrin, within the renovated hotel; the former space of Les Ambassadeurs became a bar.&lt;/p&gt;
 </description>
         <pubDate>Sun, 02 Feb 2020 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/jekyll-theme-memoirs/les-ambassadeurs/</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll-theme-memoirs/les-ambassadeurs/</guid>
+        <link>http://localhost:4000/les-ambassadeurs/</link>
+        <guid isPermaLink="true">http://localhost:4000/les-ambassadeurs/</guid>
         
         <category>France</category>
         
@@ -47,8 +47,8 @@
 &lt;p&gt;For several hundred thousand years, the Sahara has alternated between desert and savanna grassland in a 20,000 year cycle caused by the precession of the Earth’s axis as it rotates around the Sun, which changes the location of the North African Monsoon. The area is next expected to become green in about 15,000 years (17,000 AD).&lt;/p&gt;
 </description>
         <pubDate>Sat, 01 Feb 2020 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/jekyll-theme-memoirs/much-more-than-a-desert-trip-to-sahara/</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll-theme-memoirs/much-more-than-a-desert-trip-to-sahara/</guid>
+        <link>http://localhost:4000/much-more-than-a-desert-trip-to-sahara/</link>
+        <guid isPermaLink="true">http://localhost:4000/much-more-than-a-desert-trip-to-sahara/</guid>
         
         
         <category>Travel</category>
@@ -72,8 +72,8 @@
 &lt;p&gt;An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”.&lt;/p&gt;
 </description>
         <pubDate>Sun, 12 Jan 2020 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/jekyll-theme-memoirs/one-day-just-started-adventure/</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll-theme-memoirs/one-day-just-started-adventure/</guid>
+        <link>http://localhost:4000/one-day-just-started-adventure/</link>
+        <guid isPermaLink="true">http://localhost:4000/one-day-just-started-adventure/</guid>
         
         
         <category>Travel</category>
@@ -97,41 +97,9 @@
 &lt;p&gt;Until 1959, the sentries at Buckingham Palace were stationed outside the fence. This stopped following an incident involving a female tourist and a Coldstream Guardsman – due to the continued pestering by tourists and sightseers, the guardsman kicked the tourist on the ankle as he marched. The tourist made a complaint to the police and the sentry was confined to barracks for ten days. Not long after, the sentries were moved inside the fence.&lt;/p&gt;
 </description>
         <pubDate>Sun, 12 Jan 2020 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/jekyll-theme-memoirs/london/</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll-theme-memoirs/london/</guid>
+        <link>http://localhost:4000/london/</link>
+        <guid isPermaLink="true">http://localhost:4000/london/</guid>
         
-        
-        <category>Travel</category>
-        
-      </item>
-    
-      <item>
-        <title>Memoirs supports external images as featured</title>
-        <description>&lt;p&gt;Adding images is a very annoying task, I know that, but “Memoirs” theme has external featured images integrated so your publishing task becomes easier now.&lt;/p&gt;
-
-&lt;p&gt;Education must also train one for quick, resolute and effective thinking. To think incisively and to think for one’s self is very difficult.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;We are prone to let our mental life become invaded by legions of half truths, prejudices, and propaganda. At this point, I often wonder whether or not education is fulfilling its purpose. A great majority of the so-called educated people do not think logically and scientifically.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Even the press, the classroom, the platform, and the pulpit in many instances do not give us objective and unbiased truths. To save man from the morass of propaganda, in my opinion, is one of the chief aims of education. Education must enable one to sift and weigh evidence, to discern the true from the false, the real from the unreal, and the facts from the fiction.&lt;/p&gt;
-
-&lt;p&gt;The function of education, therefore, is to teach one to think intensively and to think critically. But education which stops with efficiency may prove the greatest menace to society. The most dangerous criminal may be the man gifted with reason, but with no morals.&lt;/p&gt;
-
-&lt;p&gt;The late Eugene Talmadge, in my opinion, possessed one of the better minds of Georgia, or even America. Moreover, he wore the Phi Beta Kappa key. By all measuring rods, Mr. Talmadge could think critically and intensively; yet he contends that I am an inferior being. Are those the types of men we call educated?&lt;/p&gt;
-
-&lt;p&gt;We must remember that intelligence is not enough. Intelligence plus character–that is the goal of true education. The complete education gives one not only power of concentration, but worthy objectives upon which to concentrate. The broad education will, therefore, transmit to one not only the accumulated knowledge of the race but also the accumulated experience of social living.&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 12 Jan 2020 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/jekyll-theme-memoirs/external-featured-image/</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll-theme-memoirs/external-featured-image/</guid>
-        
-        <category>France</category>
-        
-        
-        <category>Lifestyle</category>
         
         <category>Travel</category>
         
@@ -161,8 +129,8 @@
 &lt;/code&gt;&lt;/pre&gt;
 </description>
         <pubDate>Sat, 11 Jan 2020 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/jekyll-theme-memoirs/post-with-spoiler/</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll-theme-memoirs/post-with-spoiler/</guid>
+        <link>http://localhost:4000/post-with-spoiler/</link>
+        <guid isPermaLink="true">http://localhost:4000/post-with-spoiler/</guid>
         
         <category>Movies</category>
         
@@ -186,8 +154,8 @@
 &lt;p&gt;As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.&lt;/p&gt;
 </description>
         <pubDate>Wed, 01 Jan 2020 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/jekyll-theme-memoirs/that-day-we-almost-missed-flight/</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll-theme-memoirs/that-day-we-almost-missed-flight/</guid>
+        <link>http://localhost:4000/that-day-we-almost-missed-flight/</link>
+        <guid isPermaLink="true">http://localhost:4000/that-day-we-almost-missed-flight/</guid>
         
         
         <category>Travel</category>
@@ -217,8 +185,8 @@ rating: 4.5
 &lt;/code&gt;&lt;/pre&gt;
 </description>
         <pubDate>Wed, 01 Jan 2020 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/jekyll-theme-memoirs/review-oscar/</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll-theme-memoirs/review-oscar/</guid>
+        <link>http://localhost:4000/review-oscar/</link>
+        <guid isPermaLink="true">http://localhost:4000/review-oscar/</guid>
         
         <category>Movies</category>
         
@@ -244,8 +212,8 @@ rating: 4.5
 &lt;p&gt;Although some producers have benefited in recent years from rising prices and increased demand for some of the prestige wines from Burgundy and Bordeaux, the French wine industry has seen a decline in domestic consumption and internationally, it has had to compete with many new world wines.&lt;/p&gt;
 </description>
         <pubDate>Wed, 01 Jan 2020 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/jekyll-theme-memoirs/french-wine/</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll-theme-memoirs/french-wine/</guid>
+        <link>http://localhost:4000/french-wine/</link>
+        <guid isPermaLink="true">http://localhost:4000/french-wine/</guid>
         
         <category>France</category>
         
@@ -269,8 +237,31 @@ rating: 4.5
 &lt;p&gt;The Gallery often presents temporary special exhibitions spanning the world and the history of art. It is one of the largest museums in North America.&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Dec 2019 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/jekyll-theme-memoirs/the-observer/</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll-theme-memoirs/the-observer/</guid>
+        <link>http://localhost:4000/the-observer/</link>
+        <guid isPermaLink="true">http://localhost:4000/the-observer/</guid>
+        
+        
+        <category>Lifestyle</category>
+        
+      </item>
+    
+      <item>
+        <title> Culinary Arts in Europe by Jean Anthelme Brillat-Savarin</title>
+        <description>&lt;p&gt;The origins of culinary began with primitive humans roughly 2 million years ago. There are various theories as to how early humans used fire to cook meat. According to anthropologist Richard Wrangham, author of Catching Fire: How Cooking Made Us Human, primitive humans simply tossed a raw hunk of meat into the flames and watched it sizzle. Another theory claims humans may first have savoured roasted meat by chance when the flesh of a beast killed in a forest fire was found to be more appetizing and easier to chew and digest than the conventional raw meat.&lt;/p&gt;
+
+&lt;p&gt;Culinary techniques improved with the introduction of earthenware and stoneware, the domestication of livestock, and advancements in agriculture. In early civilizations, the primary employers of professional chefs were kings, aristocrats, or priests. The divide between professional chefs cooking for the wealthy and peasants cooking for their families engendered the development of many cuisines.&lt;/p&gt;
+
+&lt;p&gt;A great deal of the study of Culinary Arts in Europe was organized by Jean Anthelme Brillat-Savarin, a man famous for his quote “Tell me what you eat, and I will tell you what you are,” which has since been mistranslated and oversimplified into “You are what you eat.” Other people helped to parse out the different parts of food science and gastronomy. Over time, increasingly deeper and more detailed studies into foods and the Culinary Arts has led to a greater wealth of knowledge.&lt;/p&gt;
+
+&lt;p&gt;In Asia, a similar path led to a separate study of the Culinary Arts, which later essentially merged with the Western counterpart. In the modern international marketplace, there is no longer a distinct divide between Western and Eastern foods. Culinary Arts students today, generally speaking, are introduced to the different cuisines of many different cultures from around the world.&lt;/p&gt;
+
+&lt;p&gt;The Culinary Arts, in the Western world, as a craft and later as a field of study, began to evolve at the end of the Renaissance period. Prior to this, chefs worked in castles, cooking for kings and queens, as well as their families, guests, and other workers of the castle. As Monarchical rule became phased out as a modality, the chefs took their craft to inns and hotels. From here, the craft evolved into a field of study.&lt;/p&gt;
+
+&lt;p&gt;Before cooking institutions, professional cooks were mentors for individual students who apprenticed under them. In 1879, the first cooking school was founded in the United States: the Boston Cooking School. This school standardized cooking practices and recipes, and laid the groundwork for the culinary arts schools that would follow.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 01 Dec 2019 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/press-and-education/</link>
+        <guid isPermaLink="true">http://localhost:4000/press-and-education/</guid>
         
         
         <category>Lifestyle</category>
