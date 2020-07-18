@@ -1,13 +1,16 @@
 ---
 layout: page
-title: Memoirs, a free minimalist Jekyll blogging theme with modern design 
+title: About the author
 permalink: /about
 comments: false
-image: assets/images/screenshot.jpg
-imageshadow: true
+# image: 
+# imageshadow: true
 ---
 
-This website is a demonstration to see **Memoirs Jekyll theme** in action. The theme is compatible with Github pages, in fact even this demo itself is created with Github Pages and hosted with Github. 
+![alt text](/assets/images/owner_picture.jpg "Author")
 
-<a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/jekyll-theme-memoirs/" class="btn btn-dark"> Get Memoirs for Jekyll &rarr;</a>
+Hi, I'm *Mounish Pedagandham*, a 21 year undergraduate in CS from National Institute of Technology, Raipur (2020).  
+I love to travel, read books, and indulge in fitness. Also, a serious petrolhead.  
+I am eager to share my experiences, journeys through short stories and my views & opinions on various issues.
 
+<a target="_blank" href="https://instagram.com/imounish" class="btn btn-dark">Follow me on Instagram &rarr;</a>

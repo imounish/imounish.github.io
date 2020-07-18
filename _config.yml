@@ -1,13 +1,13 @@
 # Site
-name: "Memoirs"
+name: "Memoirs by MP"
 title: "Memoirs"
-description: "I will take you along a journey of my life.  Eat, Pray, Love!"
+description: "Welcome to Memoirs"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
 google_analytics: 'UA-172918978-1'
 disqus: 'memoirs-2'
-mailchimp-list: ''
+mailchimp-list: 'https://github.us10.list-manage.com/subscribe/post?u=3aaa06c448ca3af35e7b6e671&amp;id=e2180803c1'
 include: ["_pages"]
 permalink: /:title/
 email: ish.mp98@gmail.com
@@ -67,10 +67,10 @@ adsense-data-ad-client: "ca-pub-3412143450191416"
 adsense-data-ad-slot: "1363087678"
 
 # Lazy Images ("enabled" or "disabled")
-lazyimages: "disabled"
+lazyimages: "enabled"
 
 # Post Author Box ("enabled" or "disabled")
-authorbox: "disabled"
+authorbox: "enabled"
 
 # Sass
 sass:
