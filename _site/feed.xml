@@ -5,175 +5,85 @@
     <description>Welcome to Memoirs</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 18 Jul 2020 23:35:30 +0530</pubDate>
-    <lastBuildDate>Sat, 18 Jul 2020 23:35:30 +0530</lastBuildDate>
+    <pubDate>Sun, 19 Jul 2020 18:05:31 +0530</pubDate>
+    <lastBuildDate>Sun, 19 Jul 2020 18:05:31 +0530</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
-        <title>Reviewing the best Oscar movies of all time</title>
-        <description>&lt;p&gt;Review products, books, movies, restaurant and anything you like on your Jekyll blog with &lt;strong&gt;Memoirs&lt;/strong&gt;! JSON-LD ready for review property.&lt;/p&gt;
+        <title>Is the ban on Chinese Apps sufficient to be Aatm Nirbhar?</title>
+        <description>&lt;p&gt;Amidst the growing tensions between India and China on the military front, the government of India announced the ban of 59 mobile apps stating that they are ‘prejudicial to sovereignty, integrity, defence of India, security of the state and public order’ invoking the power under Section 69A of the IT Act ( provisions of IT Rules 2009).&lt;/p&gt;
 
-&lt;h4 id=&quot;how-to-use&quot;&gt;How to use?&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;What does Aatm Nirbhar mean?&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;It’s actually really simple! Add the rating in your YAML front matter. It also supports halfs:&lt;/p&gt;
+&lt;p&gt;The Honourable Prime Minister Shri Narendra Modi, announced the special economic package on May 12 to uplift India’s economy desecrated by the national wide lockdown due to the ongoing pandemic caused by COVID — 19. The package aims to make India independent from foreign competition in global supply chain and empower the underprivileged affected by the lockdown. The phrase Aatm Nirbhar means to be self dependent, which can be collocated to the self sufficient production of goods.&lt;/p&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-md&quot;&gt;---
-layout: post
-title:  &quot;Inception Movie&quot;
-author: john
-categories: [ Lifestyle ]
-tags: [red, yellow]
-image: assets/images/11.jpg
-description: &quot;My review of Inception movie. Actors, directing and more.&quot;
-rating: 4.5
----
-&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;How does it resonate with the current context?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;!-- image here  --&gt;
+&lt;figure class=&quot;image&quot;&gt;
+    &lt;img src=&quot;/assets/post_images/2020-07-1-aatm-nirbhar/chuttersnap-unsplash.jpg&quot; alt=&quot;Photo by chuttersnap on Unsplash&quot; /&gt;
+    &lt;figcaption style=&quot;text-align: center;
+    color:grey; 
+    font-size: smaller; margin-top:4px&quot;&gt;Photo by chuttersnap on Unsplash&lt;/figcaption&gt;
+  &lt;/figure&gt;
+
+&lt;p&gt;The present situation with China at the LAC possess a challenging situation for India. The loss of lives of 20 Indian soldiers during the clash between Indian Army and PLA at Galwan valley on June 15 sent an alarming manifestation of the arduous situation at the LAC. A delayed and ambiguous response had paved for ominous remarks, although later clarified it left a stifling unrest in the general public.&lt;/p&gt;
+
+&lt;p&gt;To brush away the propaganda, a nationwide dissension against the use of Chinese products was brought forth. This ‘boycott Chinese products’ motto worked well in the likes of political executives. To further consolidate the outcry, an agenda for a self-reliant India free from the shackles of China has been bestowed. Thus, an Aatm Nirbhar India has to be accomplished sooner or later, essentially with respect to China.&lt;/p&gt;
+
+&lt;center&gt;&lt;pre&gt;.  .  .&lt;/pre&gt;&lt;/center&gt;
+
+&lt;p&gt;&lt;strong&gt;Can India boycott China?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The fact of India not continuing trade with China torments the former’s economy. China is one of the largest trading partners with India with an estimate of $16.34 billion in exports and $68.06 billion in imports for the FY17. The imports from China had considerably decreased by 15% from the FY18 due to anti-dumping duties, and the number stands at $65.1 billion for FY20. However, the exports have gained a minuscule percentage and stand at $16.6 billion for FY20.&lt;/p&gt;
+
+&lt;p&gt;The dependence of Indian automobile, pharmaceutical industries on the raw materials, available at low cost, from China possess a problem to boycott the Chinese products. Over a quarter of India’s auto parts imports have come from China in 2019 amounting to $4.2 billion. These are crucial parts in the manufacturing process, without which the development of costly alternatives aggravates the local business and profits, says the automobile manufacturing groups. “The imports from China directly contribute to over 30% of India’s aggregate trade deficit.” says Suman Chowdhury, from Acuité Ratings &amp;amp; Research. Thus, the dependence of domestic economy on the imports from China is quite significant.
+The report by S&amp;amp;P Global Ratings on 26 June predicts that the Indian economy is in deep trouble, with difficulty in containing the virus, its growth is expected to fall by 5% this fiscal. With such a taxing scenario on the business front, India cannot immediately cut the trading ties with its Asian business partner.&lt;/p&gt;
+
+&lt;p&gt;The ban of Chinese mobile apps, though a welcoming step, it serves a diminutive effect on the ongoing bilateral issues and the trade between the two nations. However, further steps are, and should be, under consideration.&lt;/p&gt;
+
+&lt;center&gt;&lt;pre&gt;.  .  .&lt;/pre&gt;&lt;/center&gt;
+
+&lt;p&gt;&lt;strong&gt;A Feasible Foresight&lt;/strong&gt;&lt;/p&gt;
+
+&lt;!-- image here  --&gt;
+&lt;figure class=&quot;image&quot;&gt;
+    &lt;img src=&quot;/assets/post_images/2020-07-1-aatm-nirbhar/foresight.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;figcaption style=&quot;text-align: center;
+    color:grey; 
+    font-size: smaller; margin-top:4px&quot;&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;
+
+&lt;p&gt;The government is trying to stiffen the curbs on 1,173 non-essential imports, through dialogue with companies, mentions a trading body in India. Furthermore, the customs scrutiny of the exports at Chennai port has deliberately been intensified leading to delay in delivery of goods. This move had a contemplated repercussion on the Chinese side of exports to India, leading to delays, worrying the importing companies.&lt;/p&gt;
+
+&lt;p&gt;However, the study by Acuité Research &amp;amp; Rating shows that India can potentially reduce its trade deficit with China by $8.4 billion over FY21–22, which is equivalent to 17.3% of deficit with China and 0.3% of India’s GDP, further leading to self reliance.&lt;/p&gt;
+
+&lt;p&gt;This notion of boycott cannot be achieved overnight. It would hurt the Indians dependent on logistic supply chains, if a sudden boycott should be imposed. It takes a pragmatic approach and careful planning of foreign and trade policies not only with China, but also other trading partners i.e. the government should frame the policies aiming to reduce the dependence of the economy not only on Chinese products, but also other foreign products. The self reliability should be achieved in strategic financial sectors to be free from external market players.&lt;/p&gt;
+
+&lt;p&gt;Thus, this pandemic proved that we have to be Aatm Nirbhar to sustain our pharma, automobile, agri, manufacturing industries. We, as people, have to be ‘vocal for local’ as endorsed by hon’ble Prime Minister. Hence, India should strive to stand up not only against China, but against all foreign competition to progress as a prosperous nation.&lt;/p&gt;
+
+&lt;center&gt;&lt;pre&gt;.  .  .&lt;/pre&gt;&lt;/center&gt;
+
+&lt;p&gt;&lt;em&gt;The information presented above is from various sources like Wikipedia, The Hindu.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Please do subscribe to my newsletter, and leave a comment below.&lt;/em&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 01 Jan 2020 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/review-oscar/</link>
-        <guid isPermaLink="true">http://localhost:4000/review-oscar/</guid>
+        <pubDate>Wed, 01 Jul 2020 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/aatm-nirbhar/</link>
+        <guid isPermaLink="true">http://localhost:4000/aatm-nirbhar/</guid>
         
-        <category>Movies</category>
+        <category>India</category>
         
+        <category>China</category>
         
-        <category>Lifestyle</category>
+        <category>LAC</category>
         
-      </item>
-    
-      <item>
-        <title>French Wine has to compete with many new world wines</title>
-        <description>&lt;p&gt;French wine is produced all throughout France, in quantities between 50 and 60 million hectolitres per year, or 7–8 billion bottles. France is one of the largest wine producers in the world, along with Italian, Spanish, and American wine-producing regions.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;French wine traces its history to the 6th century BC, with many of France’s regions dating their wine-making history to Roman times. The wines produced range from expensive wines sold internationally to modest wines usually only seen within France such as the Margnat wines were during the post war period.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Two concepts central to the better French wines are the notion of terroir, which links the style of the wines to the locations where the grapes are grown and the wine is made and the Appellation d’origine contrôlée (AOC) system, replaced by the Appellation d’Origin Protégée (AOP) system in 2012.&lt;/p&gt;
-
-&lt;p&gt;Appellation rules closely define which grape varieties and winemaking practices are approved for classification in each of France’s several hundred geographically defined appellations, which can cover regions, villages or vineyards.&lt;/p&gt;
-
-&lt;p&gt;France is the source of many grape varieties (such as &lt;strong&gt;Cabernet Sauvignon, Chardonnay, Pinot noir, Sauvignon blanc, Syrah&lt;/strong&gt;) that are now planted throughout the world, as well as wine-making practices and styles of wine that have been adopted in other producing countries.&lt;/p&gt;
-
-&lt;p&gt;Although some producers have benefited in recent years from rising prices and increased demand for some of the prestige wines from Burgundy and Bordeaux, the French wine industry has seen a decline in domestic consumption and internationally, it has had to compete with many new world wines.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 01 Jan 2020 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/french-wine/</link>
-        <guid isPermaLink="true">http://localhost:4000/french-wine/</guid>
+        <category>Ecocnomy</category>
         
-        <category>France</category>
+        <category>Trade</category>
         
         
-        <category>Lifestyle</category>
-        
-      </item>
-    
-      <item>
-        <title>The Observer - National Gallery of Art, Washington, United States</title>
-        <description>&lt;p&gt;The National Gallery of Art, and its attached Sculpture Garden, is a national art museum in Washington, D.C., located on the National Mall, between 3rd and 9th Streets, at Constitution Avenue NW. Open to the public and free of charge, the museum was privately established in 1937 for the American people by a joint resolution of the United States Congress. Andrew W. Mellon donated a substantial art collection and funds for construction.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The core collection includes major works of art donated by Paul Mellon, Ailsa Mellon Bruce, Lessing J. Rosenwald, Samuel Henry Kress, Rush Harrison Kress, Peter Arrell Browne Widener, Joseph E. Widener, and Chester Dale.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The Gallery’s collection of paintings, drawings, prints, photographs, sculpture, medals, and decorative arts traces the development of Western Art from the Middle Ages to the present, including the only painting by Leonardo da Vinci in the Americas and the largest mobile created by Alexander Calder.&lt;/p&gt;
-
-&lt;p&gt;The Gallery’s campus includes the original neoclassical West Building designed by John Russell Pope, which is linked underground to the modern East Building, designed by I. M. Pei, and the 6.1-acre (25,000 m2) Sculpture Garden.&lt;/p&gt;
-
-&lt;p&gt;The Gallery often presents temporary special exhibitions spanning the world and the history of art. It is one of the largest museums in North America.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 01 Dec 2019 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/the-observer/</link>
-        <guid isPermaLink="true">http://localhost:4000/the-observer/</guid>
-        
-        
-        <category>Lifestyle</category>
-        
-      </item>
-    
-      <item>
-        <title> Culinary Arts in Europe by Jean Anthelme Brillat-Savarin</title>
-        <description>&lt;p&gt;The origins of culinary began with primitive humans roughly 2 million years ago. There are various theories as to how early humans used fire to cook meat. According to anthropologist Richard Wrangham, author of Catching Fire: How Cooking Made Us Human, primitive humans simply tossed a raw hunk of meat into the flames and watched it sizzle. Another theory claims humans may first have savoured roasted meat by chance when the flesh of a beast killed in a forest fire was found to be more appetizing and easier to chew and digest than the conventional raw meat.&lt;/p&gt;
-
-&lt;p&gt;Culinary techniques improved with the introduction of earthenware and stoneware, the domestication of livestock, and advancements in agriculture. In early civilizations, the primary employers of professional chefs were kings, aristocrats, or priests. The divide between professional chefs cooking for the wealthy and peasants cooking for their families engendered the development of many cuisines.&lt;/p&gt;
-
-&lt;p&gt;A great deal of the study of Culinary Arts in Europe was organized by Jean Anthelme Brillat-Savarin, a man famous for his quote “Tell me what you eat, and I will tell you what you are,” which has since been mistranslated and oversimplified into “You are what you eat.” Other people helped to parse out the different parts of food science and gastronomy. Over time, increasingly deeper and more detailed studies into foods and the Culinary Arts has led to a greater wealth of knowledge.&lt;/p&gt;
-
-&lt;p&gt;In Asia, a similar path led to a separate study of the Culinary Arts, which later essentially merged with the Western counterpart. In the modern international marketplace, there is no longer a distinct divide between Western and Eastern foods. Culinary Arts students today, generally speaking, are introduced to the different cuisines of many different cultures from around the world.&lt;/p&gt;
-
-&lt;p&gt;The Culinary Arts, in the Western world, as a craft and later as a field of study, began to evolve at the end of the Renaissance period. Prior to this, chefs worked in castles, cooking for kings and queens, as well as their families, guests, and other workers of the castle. As Monarchical rule became phased out as a modality, the chefs took their craft to inns and hotels. From here, the craft evolved into a field of study.&lt;/p&gt;
-
-&lt;p&gt;Before cooking institutions, professional cooks were mentors for individual students who apprenticed under them. In 1879, the first cooking school was founded in the United States: the Boston Cooking School. This school standardized cooking practices and recipes, and laid the groundwork for the culinary arts schools that would follow.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 01 Dec 2019 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/press-and-education/</link>
-        <guid isPermaLink="true">http://localhost:4000/press-and-education/</guid>
-        
-        
-        <category>Lifestyle</category>
-        
-      </item>
-    
-      <item>
-        <title>Education must also train one for quick, resolute and effective thinking.</title>
-        <description>&lt;p&gt;Memoirs theme has Prism highlighter integrated. I will show you in this post a few examples of how it looks if you are a developer planning to add pieces of code on your website.&lt;/p&gt;
-
-&lt;h4 id=&quot;html&quot;&gt;HTML&lt;/h4&gt;
-
-&lt;pre&gt;&lt;code class=&quot;language-html&quot;&gt;&amp;lt;li class=&quot;ml-1 mr-1&quot;&amp;gt;
-    &amp;lt;a target=&quot;_blank&quot; href=&quot;#&quot;&amp;gt;
-    &amp;lt;i class=&quot;fab fa-twitter&quot;&amp;gt;&amp;lt;/i&amp;gt;
-    &amp;lt;/a&amp;gt;
-&amp;lt;/li&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h4 id=&quot;css&quot;&gt;CSS&lt;/h4&gt;
-
-&lt;pre&gt;&lt;code class=&quot;language-css&quot;&gt;.highlight .c {
-    color: #999988;
-    font-style: italic; 
-}
-.highlight .err {
-    color: #a61717;
-    background-color: #e3d2d2; 
-}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h4 id=&quot;js&quot;&gt;JS&lt;/h4&gt;
-
-&lt;pre&gt;&lt;code class=&quot;language-js&quot;&gt;// alertbar later
-$(document).scroll(function () {
-    var y = $(this).scrollTop();
-    if (y &amp;gt; 280) {
-        $('.alertbar').fadeIn();
-    } else {
-        $('.alertbar').fadeOut();
-    }
-});
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h4 id=&quot;python&quot;&gt;Python&lt;/h4&gt;
-
-&lt;pre&gt;&lt;code class=&quot;language-python&quot;&gt;print(&quot;Hello World&quot;)
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h4 id=&quot;ruby&quot;&gt;Ruby&lt;/h4&gt;
-
-&lt;pre&gt;&lt;code class=&quot;language-ruby&quot;&gt;require 'redcarpet'
-markdown = Redcarpet.new(&quot;Hello World!&quot;)
-puts markdown.to_html
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h4 id=&quot;c&quot;&gt;C&lt;/h4&gt;
-
-&lt;pre&gt;&lt;code class=&quot;language-c&quot;&gt;printf(&quot;Hello World&quot;);
-&lt;/code&gt;&lt;/pre&gt;
-</description>
-        <pubDate>Tue, 12 Jun 2018 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/education/</link>
-        <guid isPermaLink="true">http://localhost:4000/education/</guid>
-        
-        
-        <category>Education</category>
+        <category>Current Affairs</category>
         
       </item>
     

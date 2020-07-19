@@ -13,4 +13,7 @@ Hi, I'm *Mounish Pedagandham*, a 21 year undergraduate in CS from National Insti
 I love to travel, read books, and indulge in fitness. Also, a serious petrolhead.  
 I am eager to share my experiences, journeys through short stories and my views & opinions on various issues.
 
-<a target="_blank" href="https://instagram.com/imounish" class="btn btn-dark">Follow me on Instagram &rarr;</a>
+<a target="_blank" href="https://instagram.com/imounish" class="btn btn-dark">Follow me on Instagram 
+    <i class="fab fa-instagram"></i>
+</a>
+

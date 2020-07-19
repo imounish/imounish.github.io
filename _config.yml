@@ -16,12 +16,13 @@ email: ish.mp98@gmail.com
 authors:
   mounish:
     name: Mounish Pedagandham
-    display_name: Mounish P
+    display_name: Mounish 
     gravatar: 7fa27c822765e2b34f681459eac27796
     email: ish.mp98@gmail.com
     web: https://imounish.github.io
     twitter: https://twitter.com/imounish
-    description: "Author of Memoirs, a blog to share experiences, stories, and journey through life."
+    instagram: https://instagram.com/imounish
+    description: "Author of Memoirs. A CS graduate from NIT Raipur.  Bibliophile. Petrolhead. Fitness Freak"
 
 # Plugins
 plugins:
