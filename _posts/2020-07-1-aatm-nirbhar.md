@@ -3,7 +3,7 @@ layout: post
 title: Is the ban on Chinese Apps sufficient to be Aatm Nirbhar?
 author: mounish
 categories: [Current Affairs]
-tags: [India, China, LAC, Ecocnomy, Trade]
+tags: [India - China]
 image: assets/post_images/2020-07-1-aatm-nirbhar/naveed-ahmed-unsplash.jpg
 description: "Can India be really Aatm Nirbhar by just bycotting Chinese Apps"
 ---
@@ -55,4 +55,4 @@ Thus, this pandemic proved that we have to be Aatm Nirbhar to sustain our pharma
 
 _The information presented above is from various sources like Wikipedia, The Hindu._
 
-_Please do subscribe to my newsletter, and leave a comment below._
+_Please do_ _**subscribe**_ _to my newsletter, and leave a_ _**comment**_ _below._
