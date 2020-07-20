@@ -8,7 +8,7 @@ image: assets/post_images/2020-07-20-windy-night/rain-2589417.jpg
 description: "The feelings of a person scared by howling winds during the night"
 ---
 
-Krishna was back to his hostel from a tiring day at the University. He was still knee deep in the pile of work to be completed for his ongoing thesis. He was drained physically and mentally. But the beautiful garden, visible from his hostel room, calmed his mind instantly. The university campus, pride of its greenery, is just a few miles from the beautiful Malabar coast. A breezy twilight had set a relaxing tone for the night.  
+Krishna was back to his hostel from a tiring day at the University. He was still knee deep in the pile of work to be completed for his ongoing thesis. He was drained physically and mentally. But the beautiful garden, visible from his hostel room, calmed his mind instantly. The university campus, proud of its greenery, is just a few miles from the beautiful Malabar coast. A breezy twilight had set a relaxing tone for the night.  
 
 <center><pre>.  .  .</pre></center>
 
@@ -18,9 +18,9 @@ Krishna is a very timid person. Even the thunders could scare him sometimes. He 
 
 The wind started gently, and grew stronger and stronger, throwing the mighty trees side to side. The stillness of the night has been destroyed with the fierceness of the mighty northeast winds. The banging doors and rattling windows woke him up. The howling wind sound filled his mind with uncertainty.
 
-He immediately shut the windows closed and grabbed his earplugs. Despite their effort, they could do nothing to stop the hooting of the wind from reaching his heart. The window panes rattled against the rushing winds instilled fear in his heart. The doors fought with the mightiness of the winds holding on their lives.  
+He immediately shut the windows closed and grabbed his earplugs. Despite their effort, they could do nothing to stop the hooting of the wind from reaching his heart. The window panes rattled against the rushing winds instilled fear in his heart. The doors fought with the mightiness of the winds holding on to their lives.  
 
-He was wide awake by now. His mind, waiting for the rain to come upon the ravaging wind, wandered off into a perpetual void. The howls of the street dogs further contributed to the eeriness of the night, giving him chills down the spine. His body was begging him to sleep. But the constant whispers of the wind disturbed his mind not letting it rest.  
+He was wide awake by then. His mind, waiting for the rain to come upon the ravaging wind, wandered off into a perpetual void. The howls of the street dogs further contributed to the eeriness of the night, giving him chills down the spine. His body was begging him to sleep. But the constant whispers of the wind disturbed his mind not letting it rest.  
 
 <!-- image here  -->
 {% include image.html url="/assets/post_images/2020-07-20-windy-night/pan-xiaozhen-OKlo0r3gBcQ-unsplash.jpg" description="Photo by pan xiaozhen on Unsplash" %} 
