@@ -6,7 +6,7 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
 google_analytics: 'UA-172918978-1'
-disqus: 'memoirs-2'
+# disqus: 'memoirs-2'
 mailchimp-list: 'https://github.us10.list-manage.com/subscribe/post?u=3aaa06c448ca3af35e7b6e671&amp;id=e2180803c1'
 include: ["_pages"]
 permalink: /:title/
@@ -60,7 +60,11 @@ kramdown:
     syntax_highlighter_opts:
       disable : false
 
-
+# Disqus Comments
+disqus:
+    # Leave shortname blank to disable comments site-wide.
+    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+    shortname: memoirs-2
 
 # Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
 adsense: "disabled"
