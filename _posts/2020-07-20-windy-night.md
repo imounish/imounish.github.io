@@ -8,8 +8,7 @@ image: assets/post_images/2020-07-20-windy-night/rain-2589417.jpg
 description: "The feelings of a person scared by howling winds during the night"
 ---
 
-**Epilogue**
-
+**Prologue**
 Krishna was back to his hostel from a tiring day at the University. He was still knee deep in the pile of work to be completed for his ongoing thesis. He was drained physically and mentally. But the beautiful garden, visible from his hostel room, calmed his mind instantly. The university campus, pride of its greenery, is just a few miles from the beautiful Malabar coast. A breezy twilight had set a relaxing tone for the night.  
 
 <center><pre>.  .  .</pre></center>
