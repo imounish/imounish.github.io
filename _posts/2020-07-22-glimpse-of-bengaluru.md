@@ -8,7 +8,7 @@ image: assets/post_images/2020-07-22-glimpse-of-bengaluru/11968268473_ded6983016
 description: "My experience of living in Bengaluru for 2 months"
 ---
 
-Bengaluru, crowned as the Prince of India, will make you fall in love him instantly. Whenever the name Bengaluru is mentioned, there's an adrenaline rush in my body. The soothing weather, lush greenery, grand palaces, filter coffee, Idly, Dosa, ... the list goes on, gives Bengaluru a special place in my heart. I've had the opportunity of spending a couple of months in Bengaluru for my internship last summer (2019). Here is my first experience of Bengaluru.  
+Bengaluru, crowned as the Silicon Valley of India, will make you fall in love with it instantly. Whenever the name Bengaluru is mentioned, there's an adrenaline rush in my body. The soothing weather, lush greenery, grand buildings, the bustling traffic, the famous filter coffee (pronounced as kaapi) urges me to revisit it. I've had the opportunity of spending a couple of months in Bengaluru for my internship last summer (2019). Here is my first experience of Bengaluru.  
 
 <center><pre>.  .  .</pre></center>
 
@@ -16,7 +16,7 @@ Bengaluru, crowned as the Prince of India, will make you fall in love him instan
 
 The day I got to know that I'll be spending the next couple of months in Bengaluru for my summer internship, there's this wave of excitement in my body. This can probably be attributed to the stories I've heard, and the movies I've watched (the main culprit being [Bangalore Days](https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/six-years-of-bangalore-days-reasons-why-the-anjali-menons-directorial-is-a-gem/photostory/76103046.cms)). These instilled in me, an ecstasy of a dream come true.
 
-The friendship with Bengaluru started on fine Tuesday morning (21 May 2019). I was received by my cousin, who graciously offered to go PG hunting with me. I was stuck with a good deal on a twin - sharing room in RR Nagar area. We immediately set out to explore the city on his motorcycle and ended up at Cubbon Park. The first thing I noticed were the trees on the sidewalk. They were huge, giving shade to the entire flock of motorcyclists on the road. The second thing I noticed is the most commonly associated Bengaluru thing - the traffic. Its insanely hectic to survive the unending traffic signals, narrow lanes, continuously pestering honking. However, you'll be greeted with a fine drizzle every now and then, lightening your mood. However, when unprepared it gets in your way of a conventional workday.
+The friendship with Bengaluru started on fine Tuesday morning (21 May 2019). I was received by my cousin, who graciously offered to go PG hunting with me. I was stuck with a good deal on a twin - sharing room in RR Nagar area. We immediately set out to explore the city on his motorcycle and ended up at Cubbon Park. The first thing I noticed is the dense tree cover on either side of the road. The trees were huge, giving shade to the entire flock of motorcyclists sulking in their helmets. The second thing I noticed is the most commonly associated Bengaluru thing - the traffic. Its insanely hectic to survive the unending traffic signals, narrow lanes, continuously pestering honking. However, you'll be greeted with a fine drizzle now and then, lightening your mood. But, it gets in your way of a conventional workday, when unprepared.
 
 {% include image.html url="/assets/post_images/2020-07-22-glimpse-of-bengaluru/Snapchat-610521143.jpg" description="Church Street - Bangalore" %} 
 
@@ -28,17 +28,17 @@ I began exploring the city on the weekends, renting out Honda Activa from the ne
 
 {% include image.html url="/assets/post_images/2020-07-22-glimpse-of-bengaluru/IMG_20190605_172656.jpg" description="Lal Bagh Lake" %} 
 
-After living there for a couple of months, I can say that there's no taking away the Bangalorean in me. I got used to running into lakes (not literally though :P) all over the city, seeing exotic cars parked on the roads, the exorbitantly priced chicken sandwich, taking the weather into account before stepping out, calculating the time to reach, motorcyclists taking to the pavement, afraid of the dreaded Silk Board Signal, etc. And the vastness of the city never allows to see the city fully. However, Bengaluru never fails to amaze me, there's always something exciting to do in the city. The sheer number of shopping malls, restaurants, bars, gardens, etc. keep us constantly occupied.
+After living there for a couple of months, I can say that there's no taking away the Bangalorean in me. I got used to running into lakes (not literally though :P) all over the city, seeing exotic cars parked on the roads, the exorbitantly priced chicken sandwich, taking the weather into account before stepping out, calculating the time to reach, motorcyclists taking to the pavement, afraid of the dreaded Silk Board Signal, etc. And the vastness of the city never allows for seeing it completely. However, Bengaluru never fails to amaze me, there's always something exciting to do in the city. The sheer number of shopping malls, restaurants, breweries, parks, etc. keep us engaged.
 
-The weekend getaways are amazing. For instance, a visited the Nandi Hills on a Saturday (that's a story for some other day), and Chennai another weekend. The options are endless. The phrase _Namma Bengaluru_ becomes clear, and you whole heartedly feel belonged to the city. It makes you stay a bit more longer than you planned for. As expected, I had a great time in Bengaluru, nevertheless the goodbyes are very hard.  
+The weekend getaways are amazing. For instance, I visited Nandi Hills on a Saturday (that's a story for some other day), and Chennai the other weekend. The options are endless. The phrase _Namma Bengaluru_ becomes clear, and you wholeheartedly feel belonged to the city. It makes you stay a bit longer than you planned for. As expected, I had a great time in Bengaluru. Nevertheless, the goodbyes are very hard.  
 
-When it was time for me to end the internship and get back to my college, it almost felt like leaving a brother behind. Bengaluru gave me a lot of memories to cherish, and something to look forward to in the coming days.
+When it was time for me to end the internship and get back to my college, it almost felt like leaving a brother behind. Bengaluru gave me a lot of memories to cherish, and something to look forward to in the coming days. It definitely holds a special place in my heart.
 
 <center><pre>.  .  .</pre></center>
 
 **Epilogue**
 
-I finally had a chance to fully experience the Bengaluru life this year, owing to my job posting over there. Nevertheless, it was delayed due to the restrictions at present. Having said that, I can say that I'm eagerly waiting to get out there and share my experiences with all the readers.
+I finally had a chance to fully experience the Bengaluru life this year, owing to my job posting over there. Nevertheless, it was delayed due to the restrictions at present. Having said that, I'm eagerly waiting to get out there and share my experiences with all the readers.
 
 <center><pre>.  .  .</pre></center>
 
@@ -46,6 +46,6 @@ _The views expressed are purely personal._
 
 Cover Photo by <a href="https://www.flickr.com/photos/prashantby/">Prashanth Y</a> on <a href="https://www.flickr.com">Flickr.</a>
 
-All other Photos are shot by the author.
+All other Photos are shot by me.
 
 _Please do_ _**subscribe**_ _to my newsletter, and leave a_ _**comment**_ _below._
