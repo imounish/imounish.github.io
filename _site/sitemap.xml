@@ -9,6 +9,10 @@
 <lastmod>2020-07-20T00:00:00+05:30</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/glimpse-of-bengaluru/</loc>
+<lastmod>2020-07-22T00:00:00+05:30</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about</loc>
 </url>
 <url>
@@ -28,5 +32,11 @@
 </url>
 <url>
 <loc>http://localhost:4000/category/short-story/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/travel/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/experience/</loc>
 </url>
 </urlset>
