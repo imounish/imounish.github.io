@@ -55,6 +55,8 @@ Thus, this pandemic proved that we have to be Aatm Nirbhar to sustain our pharma
 
 _The information presented above is from various sources like Wikipedia, The Hindu._
 
+_The views expressed are purely personal._
+
 Cover Photo by <a href="https://unsplash.com/@naveedahmed?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Naveed Ahmed</a> on <a href="https://unsplash.com/s/photos/india-china?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash.</a>
 Second Photo by <a href="https://unsplash.com/@chuttersnap?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">chuttersnap</a> on <a href="https://unsplash.com/@chuttersnap?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash.</a>
 
