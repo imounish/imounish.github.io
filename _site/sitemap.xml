@@ -13,6 +13,10 @@
 <lastmod>2020-07-22T00:00:00+05:30</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/star-wars-org-trilogy/</loc>
+<lastmod>2020-07-24T00:00:00+05:30</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about</loc>
 </url>
 <url>
@@ -38,5 +42,11 @@
 </url>
 <url>
 <loc>http://localhost:4000/category/experience/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/movies/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/hobbies/</loc>
 </url>
 </urlset>
