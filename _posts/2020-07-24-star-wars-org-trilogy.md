@@ -52,14 +52,14 @@ OMG !! They're awesome !! The buzzing sound when it is switched on is just surre
 Every Star Wars nerd certainly loves a lightsaber ! Well, I'm no exception !  
 
 * **Millenium Falcon**:
-Who doesn't love the most iconic spaceship that can do the Kessel run in less than twelve parsecs (That's what he said (:P).) ??  It's like home to Han Solo and Chewbacca duo. Its freakishly fast, and delivering when needed (yeah, sometimes it doesn't).
+Who doesn't love the most iconic spaceship that can do the Kessel run in less than twelve parsecs (That's what he said (:P).) ??  It's like home to Han Solo and Chewbacca duo. Its freakishly fast, and delivers when needed (yeah, sometimes it doesn't).
 
 <div style="width:100%;height:0;padding-bottom:49%;position:relative;"><iframe src="https://giphy.com/embed/3ornjHyjf1FiUneGGI" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>  
 
 > _“PUNCH IT”_ - Han Solo
   
 * **R2-D2**:
-The most iconic droid of all time. Every guy wanted to own one. Cute in its own way, endurable more than one can imagine. Its' beeps and whistles have a sweet charm of its own. Paired with C-3PO, they make a great duo (next to Han and Chewie though!).  
+The most iconic droid of all time. Every guy wanted to own one. Cute in its own way, endurable more than one can imagine. The beeps and whistles have a sweet charm of their own. Paired with C-3PO, they make a great duo (next to Han and Chewie though!).  
 
 <div style="width:100%;height:0;padding-bottom:43%;position:relative;"><iframe src="https://giphy.com/embed/3ornjMd3Pu2F8Vi7DO" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
