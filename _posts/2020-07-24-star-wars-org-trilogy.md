@@ -49,7 +49,7 @@ OMG !! They're awesome !! The buzzing sound when it is switched on is just surre
 
 <div style="width:100%;height:0;padding-bottom:43%;position:relative;"><iframe src="https://giphy.com/embed/3ofSB4uhagGiWdSVbi" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>  
 
-Everyone Star Wars nerd certainly loves a lightsaber ! Well, I'm no exception !  
+Every Star Wars nerd certainly loves a lightsaber ! Well, I'm no exception !  
 
 * **Millenium Falcon**:
 Who doesn't love the most iconic spaceship that can do the Kessel run in less than twelve parsecs (That's what he said (:P).) ??  It's like home to Han Solo and Chewbacca duo. Its freakishly fast, and delivering when needed (yeah, sometimes it doesn't).
