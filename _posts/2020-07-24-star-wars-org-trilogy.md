@@ -28,7 +28,7 @@ Phew !! That's a lot of information to take. That's how I felt after watching th
 
 **The Force around me**
 
-The concept of <a href="https://starwars.fandom.com/wiki/The_Force">Force</a> is fascinating. An energy field that connects everything in the universe. That's pretty novel. To those who haven't seen the Star Wars franchise, Force is something with which a <a href="https://starwars.fandom.com/wiki/Force-sensitive/Legends">Force-sensitive human</a> can learn to sense and manipulate the Force. It is an unusual way to portray a superhero (ahem ahem !! Marvel & DC). One has to learn the way of force, to become a Jedi. We can witness this in _The Empire Strikes Back_, regarded as the greatest film in the Star Wars saga. When Luke goes to Dagobah, Yoda, highly revered guru, teaches him the ways of the force.  
+The concept of <a href="https://starwars.fandom.com/wiki/The_Force">Force</a> is fascinating. An energy field that connects everything in the universe. That's pretty novel. To those who haven't seen the Star Wars franchise, Force is something with which a <a href="https://starwars.fandom.com/wiki/Force-sensitive/Legends">Force-sensitive human</a> can learn to sense and manipulate the Force. It is an unusual way to portray a superhero (ahem ahem !! Marvel & DC). One has to learn the way of force, to become a Jedi. We can witness this in _The Empire Strikes Back_, regarded as the greatest film in the Star Wars saga. When Luke goes to Dagobah, Yoda - a highly revered guru, teaches him the ways of the force.  
 
 {% include image.html url="/assets/post_images/2020-07-25-star-wars-saga/yoda.png" description="Yoda" %}  
 
@@ -44,7 +44,7 @@ The first three movies in the saga, colloquially known as the original trilogy o
 
 As the plot progresses we feel connected to the characters, the droids, the spaceships, etc. Here is how I feel about the most prominent ones:  
 
-* **The Lightsabers**:  
+* **The Lightsabers**:
 OMG !! They're awesome !! The buzzing sound when it is switched on is just surreal. It engages us to watch attentively. Seeing the duel between Luke Skywalker and Darth Vader is stunning.  After watching the movie, even I tried to buy one online or make one. Rather, I was glued to <a href="https://www.youtube.com/watch?v=GfQVUwz1kT0">Youtube</a> watching people make Lightsabers, of their own, in Disneyland.  
 
 <div style="width:100%;height:0;padding-bottom:43%;position:relative;"><iframe src="https://giphy.com/embed/3ofSB4uhagGiWdSVbi" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>  
