@@ -36,7 +36,7 @@ The concept of <a href="https://starwars.fandom.com/wiki/The_Force">Force</a> is
 
 It's exciting to see the main protagonist struggling to become a Jedi. Nevertheless, a true Jedi, adhering to the light side of the force, avoiding the emotions affiliated to the dark side of the Force. The Sith order, are driven by their emotions, like hate, anger, and greed. So, underlyingly we can see it as a battle between the good and bad virtues. The Empire Strikes Back also marks a very interesting development in the plot and the movie ends with Han Solo in a dire state. _The Return of the Jedi_ starts with Darth Vader landing on the more powerful Death Star. Luke and Leia attempt to rescue Han from Jabba, which backfires resulting in taking Leia as a slave, in the most famous costume of all time (if you know, you know). However, they escape from Jabba's place and resume on their mission leading to an exciting lightsaber duel. The trilogy ends on a good note setting an interesting tone for the sequels ahead.
 
-The first three movies in the saga, colloquially known as the original trilogy or the classic trilogy, do stand up to their reputation. Making a movie in the space, in the 1970s, the use of graphics, elaborate descriptions of the planets, imagining the technology was far fetched. In my honest opinion, these were ahead of its time. However, the franchise stayed consistent on the technology used in recent movies as well. The spaceships, the nitty-gritty technical devices, etc. remain familiar, and never out of place. I am fascinated by the huge loyal fan base this franchise has earned, and I'm proud to be one of them.  
+The first three movies in the saga, colloquially known as the original trilogy or the classic trilogy, do stand up to their reputation. Making a movie in the space, in the 1970s, the use of graphics, elaborate descriptions of the planets, imagining the technology was far fetched. In my honest opinion, these were ahead of its time. However, the franchise stayed consistent of the technology used in recent movies as well. The spaceships, the nitty-gritty technical devices, etc. remain familiar, and never out of place. I am fascinated by the huge loyal fan base this franchise has earned, and I'm proud to be one of them.  
 
 <center><pre>.  .  .</pre></center>
 
@@ -45,7 +45,7 @@ The first three movies in the saga, colloquially known as the original trilogy o
 As the plot progresses we feel connected to the characters, the droids, the spaceships, etc. Here is how I feel about the most prominent ones:  
 
 * **The Lightsabers**:
-OMG !! They're awesome !! The buzzing sound when it is switched on is just surreal. It engages us to watch attentively. Seeing the duel between Luke Skywalker and Darth Vader is stunning.  After watching the movie, even I tried to buy one online or make one. Rather, I was glued to <a href="https://www.youtube.com/watch?v=GfQVUwz1kT0">Youtube</a> watching people make Lightsabers, of their own, in Disneyland.  
+OMG !! They're awesome !! The buzzing sound when it is switched on is just surreal. It engages us to watch attentively. Seeing the duel between Luke Skywalker and Darth Vader is stunning.  After watching the movie, even I tried to buy one online or make one. Rather, I was glued to <a href="https://www.youtube.com/watch?v=GfQVUwz1kT0">Youtube</a> watching people make their own Lightsabers, in Disneyland.  
 
 <div style="width:100%;height:0;padding-bottom:43%;position:relative;"><iframe src="https://giphy.com/embed/3ofSB4uhagGiWdSVbi" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>  
 
@@ -81,7 +81,7 @@ I didn't want to include Darth Vader in this list. But I couldn't help myself. H
 
 <center><pre>.  .  .</pre></center>
 
-P.S: Well, these my few words on the Star Wars original trilogy. However, my impressions of the prequel and sequel trilogies, and anthology series will be out shortly.
+P.S: Well, these are my few words on the Star Wars original trilogy. However, my impressions of the prequel and sequel trilogies, and anthology series will be out shortly.
 
 Here's a bonus GIF, of my most favorite actress. (wink, wink) 😉
 
@@ -97,4 +97,4 @@ _All photos from Google._
 
 _All GIFs <a href="https://giphy.com/">via GIPHY</a>_  
 
-_Please do_ _**subscribe**_ _to my newsletter, and leave a_ _**comment**_ _below._
+_Please do_ _**subscribe**_ _to my newsletter, and leave a_ _**comment**_ _below about your impressions on the Star Wars._
