@@ -24,6 +24,16 @@ authors:
     instagram: https://instagram.com/imounish
     description: "Author of Memoirs. A CS graduate from NIT Raipur. Book Worm. Motorcycle Enthusiast. Fitness Freak. "
 
+  shabana:
+    name: Pattan Shabana Khatoon
+    display_name: Shabana Pattan
+    avatar: 'assets/images/shabana_dp.png'
+    email: pyaarpodcasted@gmail.com
+    web: https://anchor.fm/shabana-pattan6
+    twitter: https://twitter.com/Shabanapattan_?s=08
+    instagram: https://www.instagram.com/shiddat_._
+    description: "Voice of Pyaar Podcasted which streams in almost 10 podcasting platforms. Shayera(Poetess) in genre Romance and Motivation.   Amateur Lyricist. Performer. Girl with dreams, poems and stories. "
+
 # Plugins
 plugins:
   - jekyll-paginate
